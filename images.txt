@@ -1,4 +1,4 @@
 nginx:latest
 #支持私库
-n8n:latest
+n8nio/n8n:latest
 
