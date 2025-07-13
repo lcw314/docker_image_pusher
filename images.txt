@@ -1,4 +1,4 @@
 nginx:latest
 #支持私库
-mineru-sglang:latest
+n8n:latest
 
